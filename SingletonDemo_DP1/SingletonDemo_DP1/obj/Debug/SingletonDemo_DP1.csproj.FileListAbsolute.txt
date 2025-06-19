@@ -1,0 +1,7 @@
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\bin\Debug\SingletonDemo_DP1.exe.config
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\bin\Debug\SingletonDemo_DP1.exe
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\bin\Debug\SingletonDemo_DP1.pdb
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\obj\Debug\SingletonDemo_DP1.csproj.AssemblyReference.cache
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\obj\Debug\SingletonDemo_DP1.csproj.CoreCompileInputs.cache
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\obj\Debug\SingletonDemo_DP1.exe
+C:\Users\2020677\OneDrive - Revvity\source\repos\SingletonDemo_DP1\SingletonDemo_DP1\obj\Debug\SingletonDemo_DP1.pdb
